@@ -1,0 +1,11 @@
+Você precisa instalar o ffmpeg:
+
+pip install ffmpeg
+
+e ter o python instalado é claro :D
+
+pip install python
+
+caso não funcione nenhum deles sugiro que pesquise no google como se baixa :)
+
+by: Gauchesenpai

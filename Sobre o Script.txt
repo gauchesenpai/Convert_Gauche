@@ -1,0 +1,9 @@
+Vocês precisa criar uma pasta de saida para poder receber os arquivos .MP4
+E não adianta colocar o caminho de uma pasta que dentro dela tenha outra pasta que o script
+não vai funfar assim, eu ainda estou atualizando ele com o tempo :D
+
+Caso tenha alguma dúvida me chame no canal de suporte dos meus scripts :D
+
+t.me/CursosDesignTelegramhub
+
+by: Gauchesenpai
